@@ -4,7 +4,7 @@ This project investigates the relationship between advertising spend across thre
 
 The goal is to develop machine learning models that can:  
 1. **Predict exact Sales figures** based on a given marketing budget (Regression).  
-2. **Classify campaigns** as "High Performance" or "Low Performance" based on sales targets (Classification).  
+
 
 ---
 
