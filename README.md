@@ -56,4 +56,3 @@ Tested several regression algorithms:
 This project was developed as part of a **learning journey in Data Science and Engineering**, focusing on regression analysis, feature engineering, and model optimization. It demonstrates how machine learning can provide actionable insights for advertising budget allocation.
 
 
-**Data Note**: To respect file size limits and data licensing, the raw CSV datasets are not included in this repository. The analysis and results are pre-rendered in the notebook for easy viewing.
